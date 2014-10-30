@@ -24,7 +24,7 @@ jni_out="$base_dir/generated-src/jni"
 objc_out="$base_dir/generated-src/objc"
 java_out="$base_dir/generated-src/java/com/dropbox/textsort"
 
-java_package="com.dropbox.android"
+java_package="com.djinni.android"
 
 gen_stamp="$temp_out/gen.stamp"
 
