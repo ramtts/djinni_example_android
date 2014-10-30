@@ -1,4 +1,4 @@
-package com.dropbox.android;
+package com.djinni.android;
 
 import android.widget.EditText;
 

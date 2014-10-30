@@ -22,7 +22,7 @@ in="$base_dir/example.djinni"
 cpp_out="$base_dir/generated-src/cpp"
 jni_out="$base_dir/generated-src/jni"
 objc_out="$base_dir/generated-src/objc"
-java_out="$base_dir/generated-src/java/com/dropbox/textsort"
+java_out="$base_dir/generated-src/java/com/djinni/android"
 
 java_package="com.djinni.android"
 

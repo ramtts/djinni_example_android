@@ -2,8 +2,11 @@ package com.djinni.android;
 
 import android.app.Activity;
 import android.os.Bundle;
-import android.view.Menu;
-import android.view.MenuItem;
+import android.view.View;
+import android.widget.EditText;
+
+import java.util.ArrayList;
+import java.util.Arrays;
 
 
 public class MainActivity extends Activity {
@@ -33,4 +36,5 @@ public class MainActivity extends Activity {
         ItemList itemList = new ItemList(items);
         sortItemsInterface.sort(itemList);
     }
+
 }
